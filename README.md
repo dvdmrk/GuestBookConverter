@@ -1,4 +1,4 @@
-# Export from the Knot import into Minted
+# Export from the Knot, Import into Minted
 
 ### A basic converter for optimizing your wedding invitation workflow when exporting from the Knot and importing into Minted
 
